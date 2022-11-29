@@ -2,4 +2,4 @@
 node_modules/
 
 #ignoring test.md file
- hello-microverse/test.md 
+test.md 
