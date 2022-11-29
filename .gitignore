@@ -1,2 +1,5 @@
 #ignoring files in node_modules folder
 node_modules/
+
+#ignoring test.md file
+test.md 
